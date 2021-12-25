@@ -1,6 +1,6 @@
 # Raspberry-Pi-Cloud
 ## Like Cloud Drive Run on Raspbian + Nginx + PHP
-### I Made a Project Called Raspberry-Pi-Cloud. it on testing stage help me to test it.
+### I Made a Project Called Raspberry-Pi-Cloud. it's on testing stage help me to test it.
 ### Step 1
 <a href="https://getgrav.org/blog/raspberrypi-nginx-php7-dev"><h4>Follow This Instructions to Install Raspbian + Nginx + PHP<h4></a>
 ### Step 2 
