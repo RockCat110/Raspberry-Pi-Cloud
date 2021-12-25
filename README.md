@@ -6,4 +6,4 @@
 paste cloud at /var/www/html/
 paste nginx.conf at /etc/nginx/
 paste php.ini at /etc/php/<your-php-version>/fpm/
-#### if this instructions doesn't worck fork this and fix it.
+##### if this instructions doesn't work fork this and fix it.
